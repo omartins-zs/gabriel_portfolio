@@ -1,9 +1,15 @@
-# Portfolio 
+# Instruções para acessar o portfolio➡️
+<div>
 
-## Portflio com Imagens de alguns projetos ➡️
-
+### -  Clique em Github Pages Active🚀 ->
+### -  Clique em View Deployment no (1° Botão)
+### -  Ou clique aqui e acesse o [Portfolio](https://omartins-zs.github.io/gabriel_portfolio/)
+ </div><br>
  
+
   <div style="display: inline_block">
+ 
+### Portflio com Imagens de alguns projetos ➡️
 
   ### Linguagens Utlizadas:
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
@@ -12,15 +18,7 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
  
-</div><br>
-<div>
-
- ## Instruções para acessar o portfolio:➡️
-
-### -  Clique em Github Pages Active🚀 ->
-### -  Clique em View Deployment no (1° Botão)
-### -  Ou clique aqui e acesse o [Portfolio](https://omartins-zs.github.io/gabriel_portfolio/)
- </div>
+</div>
 <hr>
 <div> 
   <a href = "mailto:gabrielmartinsdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
