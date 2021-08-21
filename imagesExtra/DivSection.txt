@@ -1,0 +1,12 @@
+<section class="jumbotron text-center" id="sobre-mim">
+        <div class="container">
+          <h2 class="jumbotron-heading">Sobre mim</h2>
+          <p class="lead">
+            Ola meu nome e gabriel estou no mercado de prgamacoes a 2 anos tendo
+            ajudado a desenvolver projetos nas casas andre luiz, Sony, Unity
+            entre outros... Sou apaixonado por desenvolvimento e aprender e
+            tento sempre passar o meu conhecimento e aprender com colegas de
+            trabalho
+          </p>
+        </div>
+      </section>
