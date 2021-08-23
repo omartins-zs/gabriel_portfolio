@@ -1,4 +1,4 @@
-# Instruções para acessar o portfolio➡️
+# Instruções para acessar o Portfólio➡️
 <div>
 
 ### -  Clique em Github Pages Active🚀 ->
@@ -9,7 +9,7 @@
 
   <div style="display: inline_block">
  
-### Portflio com Imagens de alguns projetos ➡️
+## Portfólio com Imagens de alguns projetos ➡️
 
   ### Linguagens Utlizadas:
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
